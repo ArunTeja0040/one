@@ -4,4 +4,3 @@ COPY target/*.war /usr/local/tomcat/webapps/myweb.war
 
 
 
-#file edited by arun
